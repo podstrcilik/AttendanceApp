@@ -16,3 +16,4 @@ iOS, SwiftUI, Swift, Firebase Realtime Database
 7. Vytvoření seznamu příchodů a odchodů pro konkrétního uživatele
 8. Vytvoření seznamu příchodů a odchodů pro konkrétního uživatele
 9. Vytvoření přehledu všech uživatelů pro administrátora
+10. Základní UI testy

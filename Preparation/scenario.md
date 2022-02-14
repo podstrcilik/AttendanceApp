@@ -7,5 +7,13 @@ Mobilní nativní aplikace pro iOS umožňuje zaznamenat příchod a odchod zam�
 iOS, SwiftUI, Swift, Firebase Realtime Database
 
 ## Plán
-1. Project setup, vytvoření obrazovky pro přihlášení uživatele
-2. Napojení na Firebase DB a napojení přihlášení uživatele
+1. Project setup, vytvoření administrátorké obrazovky pro registraci nového uživatele
+3. Dokončení administrátorké obrazovky pro registraci nového uživatele, vytvoření obrazovky pro přihlášení uživatele
+4. DB návrh, napojení na Firebase DB
+5. Napojení registrace nového uživatele na DB, napojení přihlášení uživatele
+6. Dokončení napojení přihlášení uživatele, vytvoření obrazovky pro zaznamenání odchodu a příchodu
+7. Dokončení obrazovky pro zaznamenání odchodu a příchodu, napojení obrazovky na DB
+8. Vytvoření seznamu příchodů a odchodů pro konkrétního uživatele
+9. Vytvoření seznamu příchodů a odchodů pro konkrétního uživatele
+10. Vytvoření přehledu všech uživatelů pro administrátora
+11. 

@@ -17,3 +17,6 @@ iOS, SwiftUI, Swift, Firebase Realtime Database
 8. Vytvoření seznamu příchodů a odchodů pro konkrétního uživatele
 9. Vytvoření přehledu všech uživatelů pro administrátora
 10. Základní UI testy
+
+## 22.3. Check
+Vývoj jde oproti plánu pomaleji. Prvních 6 bodů je splněno až na napojení registrace uživatele do navigace v aplikaci. Pro registraci uživatele je vytvořen formulář a logika ale aktuálně se v aplikaci nelze zaregistrovat(uživatel se nedokliká do registrace). Pro splnění plánu bude potřeba odstranit z plánu bod 9. a 10.
